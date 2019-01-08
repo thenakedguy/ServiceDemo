@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ServiceDemo</string>
+    <string name="btn_Open">dang dep trai</string>
+    <string name="btn_Stop">dung lai</string>
+</resources>
